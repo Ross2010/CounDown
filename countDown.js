@@ -12,7 +12,7 @@ function countDown (num) {
             setTimeout(printCount, 1000);
         }
         else {
-            console.log("DONE!");
+            console.log(" WELL DONE!");
         }
     }
     setTimeout(printCount, 1000);
